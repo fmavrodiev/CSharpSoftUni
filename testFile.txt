@@ -1,5 +1,0 @@
-conflict!
-
-
-new line from local
-after merge
